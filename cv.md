@@ -1,3 +1,3 @@
-#My CV
+Sergey Chigak
 
-##Sergey Chigak
+QA Engineer in Lyft
